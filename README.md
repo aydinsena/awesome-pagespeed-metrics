@@ -163,7 +163,7 @@ Element Timing captures **when specific elements are painted** by the browser. H
 
 ### Time to Interactive (TTI)
 
-Time to interactive is **the time it takes for the page to become fully interactive** (as in Main Thread quiet for 5s). Sometimes called Consistently Interactice and not to be confused with First Interactive or First CPU Idle. (Warning: one of the most confusing and misunderstood metrics).
+Time to interactive is **the time it takes for the page to become fully interactive** (as in Main Thread quiet for 5s). Sometimes called Consistently Interactive and not to be confused with First Interactive or First CPU Idle. (Warning: one of the most confusing and misunderstood metrics).
 
 - Lab: Lighthouse, WPT
 - Field: Not recommended as users interacting with your page can skew field measurements of TTI
